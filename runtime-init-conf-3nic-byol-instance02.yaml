@@ -54,7 +54,7 @@ extension_services:
           My_License:
             class: License
             licenseType: regKey
-            regKey: REPLACE_WITH_VALID_REGKEY
+            regKey: AMKDU-SWION-QXUHD-NTDIZ-ORZLUWQ
           admin:
             class: User
             userType: regular
@@ -129,7 +129,6 @@ extension_services:
           My_Provisioning:
             class: Provision
             ltm: nominal
-            asm: nominal
           My_Ntp:
             class: NTP
             servers:
